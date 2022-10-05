@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @teuk1
-- 👀 I’m interested in art and code
-- 🌱 I’m currently learning vuejs and web application development
-- 💞️ I’m looking to collaborate on framework js
+- 💞️ I’m interested in art and code
+- 🥽 I’m working on vuejs and web application development
+- 🌱 Currently, learning Python is my favorite hobby
+- 👀 I’m looking to collaborate on web projects & applications
 - 📫 How to reach me : mail@creatypo.com
 
 <!---
